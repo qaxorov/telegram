@@ -1,0 +1,72 @@
+[
+    {
+        "userId": 1,
+        "username": "ali",
+        "email": "xumoyun@gmail.com",
+        "password": "123456789",
+        "image": "/uploads/1684574035669.png"
+    },
+    {
+        "userId": 3,
+        "username": "Abduholiq",
+        "email": "abduholiq5134@gmail.com",
+        "password": "123456789",
+        "image": "/uploads/1684928052812.png"
+    },
+    {
+        "userId": 5,
+        "username": "Qobil",
+        "email": "qobilqaxorov837@gmail.com",
+        "password": "55555",
+        "image": "/uploads/1699436245502.png"
+    },
+    {
+        "userId": 7,
+        "username": "Abduxoliq",
+        "email": "qobilqaxorov837@gmail.com",
+        "password": "55555",
+        "image": "/uploads/1699436261227.png"
+    },
+    {
+        "userId": 9,
+        "username": "Mahmudjon",
+        "email": "nvndnvc@gmail",
+        "password": "55555",
+        "image": "/uploads/1699436329260.png"
+    },
+    {
+        "userId": 11,
+        "username": "Murodjon",
+        "email": "ewerutjs@mdjfjn",
+        "password": "55555",
+        "image": "/uploads/1699438219933.png"
+    },
+    {
+        "userId": 13,
+        "username": "Abdulla",
+        "email": "Abdulla@rec",
+        "password": "55555",
+        "image": "/uploads/1699440134972.png"
+    },
+    {
+        "userId": 15,
+        "username": "Abdullajon",
+        "email": "Abdulla@rec",
+        "password": "55555",
+        "image": "/uploads/1699440151233.png"
+    },
+    {
+        "userId": 17,
+        "username": "Ahmadjon",
+        "email": "Ahmadjon@gin",
+        "password": "55555",
+        "image": "/uploads/1699440223507.png"
+    },
+    {
+        "userId": 19,
+        "username": "Ibrohim",
+        "email": "Ibrohim@ail",
+        "password": "55555",
+        "image": "/uploads/1699451785402.png"
+    }
+]

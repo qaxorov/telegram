@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <%= title %>
+    </title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/material-design-iconic-font.css">
+    <link rel="stylesheet" href="../css/material-design-iconic-font.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="wrapper sign-in">
+            <div class="site-form">
+                <h1 class="title">Sign in</h1>
+                <h3 id="err" style="color: red;"></h3>
+                <label>
+                    <span class="zmdi zmdi-account"></span>
+                    <input type="text" id="usernameInput" name="username" placeholder="Your name">
+                </label>
+
+                <label>
+                    <span class="zmdi zmdi-lock"></span>
+                    <input name="password" type="password" id="passwordInput" placeholder="Password">
+                    <button class="zmdi zmdi-eye" id="showButton" type="button"></button>
+                </label>
+
+                <input type="submit" value="Log in" id="submitButton">
+            </div>
+            <a href="./register" class="sign-link">Create an account</a>
+            <img src="../img/signin-image.jpg" alt="signin-image" class="signin-image">
+        </div>
+    </div>
+    <script type="module" src="../js/login.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+</body>
+
+</html>
